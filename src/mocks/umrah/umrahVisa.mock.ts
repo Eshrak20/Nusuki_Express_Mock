@@ -1,6 +1,7 @@
 export const umrahVisaList = [
     {
         about_title: "Umrah Visa Essential Documents",
+        about_des: "Embark on a soul-stirring spiritual journey with the best Hajj package in BD, which has been meticulously crafted to ensure your 2026 pilgrimage is both seamless and profound. Consequently, by handling every logistical detail from Dhaka to the Holy Cities, we empower you to immerse yourself fully in prayer and devotion. Furthermore, choosing this premium service means trading travel stress for peace of mind; accordingly, you can honor your sacred obligations with absolute focus. In addition, you should not leave this once-in-a-lifetime transformation to chance, but rather secure your place today to prepare for a flawlessly managed experience. Specifically, our team prioritizes your comfort and spiritual fulfillment above all else. Ultimately, you will experience divine grace through our expert-guided 2026 services, so book your journey now to begin this sacred chapter.",
         requirements_title: "Umrah Visa Requirements",
         requirements: [
             {

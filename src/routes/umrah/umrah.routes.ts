@@ -1,10 +1,12 @@
 import { Router } from "express";
 import umrahVisaRouter from "./umrahVisa.routes";
-import umrahPreRegister from "./umrahPreRegister.routes";
+import umrahSignificanceRouter from "./umrahSignificance.routes";
+import umrahPackagesRouter from "./umrahPackage.routes";
 const umrahRouter = Router();
 
 
 umrahRouter.use("/visa", umrahVisaRouter);
-umrahRouter.use("/pre-register",umrahPreRegister );
+umrahRouter.use("/significance", umrahSignificanceRouter);
+umrahRouter.use("/package", umrahPackagesRouter);
 
 export default umrahRouter;
