@@ -4,7 +4,7 @@ import os from "os";
 import apiRoutes from "./routes";
 
 const app = express();
-const allowedOrigins = ["http://localhost:5173", "http://192.168.0.129:5173"];
+const allowedOrigins = ["http://localhost:5173", "http://localhost:5174", "http://192.168.0.129:5173"];
 
 app.use(cors({
   origin: (origin, callback) => {

@@ -10,64 +10,54 @@ export const hajjPreRegisterList = [
       },
       {
         id: "citizenship",
-        title: "Citiawdzenship",
-        description:
-          "You must be a Bangladeshi citizen or a Non-Resident Bangladeshi (NRB) with a valid passport.",
+        title: "Citizenship",
+        description: "Bangladeshi citizen or NRB with valid passport."
       },
       {
         id: "age",
         title: "Age Requirement",
-        description:
-          "Applicants are generally required to be between 18 and 65 years old. Minors must be accompanied by a legal guardian.",
+        description: "Applicants 18–65 years. Minors need guardian."
       },
       {
         id: "mahram",
         title: "Mahram Requirement (Women)",
-        description:
-          "Women under 45 years usually require a Mahram. Women over 45 may travel without a Mahram if part of an approved group.",
+        description: "Women under 45 need Mahram; over 45 in approved group."
       },
       {
         id: "fitness",
         title: "Physical Fitness",
-        description:
-          "A medical fitness certificate from a government-approved medical center is mandatory.",
+        description: "Medical fitness certificate required."
       },
       {
         id: "passport",
         title: "Passport",
-        description:
-          "Machine-readable or E-passport valid for at least 6–12 months from the travel date.",
+        description: "Valid machine-readable/E-passport for 6–12 months."
       },
       {
         id: "nid",
         title: "National ID",
-        description:
-          "Smart Card or NID copy required. Birth Registration Certificate (BRC) is needed for children.",
+        description: "Smart Card/NID copy; BRC for children."
       },
       {
         id: "photos",
         title: "Photographs",
-        description:
-          "2 to 4 recent passport-sized color photos with a white background.",
+        description: "2–4 recent passport-size photos with white background."
       },
       {
         id: "covid",
         title: "COVID-19 Vaccination",
-        description:
-          "Proof of COVID-19 vaccination as per Saudi and Bangladesh government regulations.",
+        description: "Vaccination proof per Saudi & BD rules."
       },
       {
         id: "health",
         title: "Health Clearance",
-        description:
-          "Health clearance form signed by an authorized doctor.",
+        description: "Authorized doctor signed health form required."
       },
       {
         id: "biometric",
         title: "Biometric Data",
-        description:
-          "Mandatory biometric registration with a valid mobile number and email address.",
-      },
+        description: "Mandatory biometric registration with valid contacts."
+      }
     ],
     images: [
       "https://assunnahtravels.com/wp-content/uploads/2026/01/Hajj-Pre-Registration-1.webp",
